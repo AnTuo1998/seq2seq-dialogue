@@ -2,8 +2,11 @@
 
 Fork from IBM pytorch-seq2seq
 
+try
 
-
+```
+python train.py --train_path train.tsv --dev_path test.tsv
+```
 
 
 
