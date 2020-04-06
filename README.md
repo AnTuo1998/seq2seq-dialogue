@@ -1,3 +1,13 @@
+# seq2seq-dialogue
+
+Fork from IBM pytorch-seq2seq
+
+
+
+
+
+
+
 # pytorch-seq2seq
 
 [![Build Status](https://travis-ci.org/IBM/pytorch-seq2seq.svg?branch=master)](https://travis-ci.org/IBM/pytorch-seq2seq)
@@ -104,4 +114,4 @@ flake8 . --count --select=E901,E999,F821,F822,F823 --show-source --statistics
 flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
 ```
 * *Github*: We use [Codacy](https://www.codacy.com) to check styles on pull requests and branches.
-# seq2seq-dialogue
+
